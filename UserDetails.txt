@@ -1,0 +1,4 @@
+Name: Meti Shilpa
+EmailId: meti.shilpa@socgen.com
+Course Details: Java FS Training
+Batch: Beginner
